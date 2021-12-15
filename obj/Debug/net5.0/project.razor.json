@@ -15639,6 +15639,26 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\manguonmo\\DuThaiSon855\\Views\\Company_DTS855s\\Details.cshtml",
+      "TargetPath": "Views\\Company_DTS855s\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\manguonmo\\DuThaiSon855\\Views\\Company_DTS855s\\Index.cshtml",
+      "TargetPath": "Views\\Company_DTS855s\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\manguonmo\\DuThaiSon855\\Views\\Company_DTS855s\\Create.cshtml",
+      "TargetPath": "Views\\Company_DTS855s\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\manguonmo\\DuThaiSon855\\Views\\Company_DTS855s\\Edit.cshtml",
+      "TargetPath": "Views\\Company_DTS855s\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\manguonmo\\DuThaiSon855\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
@@ -15651,6 +15671,11 @@
     {
       "FilePath": "d:\\manguonmo\\DuThaiSon855\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\manguonmo\\DuThaiSon855\\Views\\Company_DTS855s\\Delete.cshtml",
+      "TargetPath": "Views\\Company_DTS855s\\Delete.cshtml",
       "FileKind": "mvc"
     }
   ],
