@@ -15624,6 +15624,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\manguonmo\\DuThaiSon855\\Views\\DTS0855s\\Edit.cshtml",
+      "TargetPath": "Views\\DTS0855s\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\manguonmo\\DuThaiSon855\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
@@ -15649,6 +15654,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\manguonmo\\DuThaiSon855\\Views\\DTS0855s\\Details.cshtml",
+      "TargetPath": "Views\\DTS0855s\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\manguonmo\\DuThaiSon855\\Views\\Company_DTS855s\\Create.cshtml",
       "TargetPath": "Views\\Company_DTS855s\\Create.cshtml",
       "FileKind": "mvc"
@@ -15664,6 +15674,16 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\manguonmo\\DuThaiSon855\\Views\\DTS0855s\\Index.cshtml",
+      "TargetPath": "Views\\DTS0855s\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\manguonmo\\DuThaiSon855\\Views\\DTS0855s\\Create.cshtml",
+      "TargetPath": "Views\\DTS0855s\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\manguonmo\\DuThaiSon855\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
@@ -15676,6 +15696,11 @@
     {
       "FilePath": "d:\\manguonmo\\DuThaiSon855\\Views\\Company_DTS855s\\Delete.cshtml",
       "TargetPath": "Views\\Company_DTS855s\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\manguonmo\\DuThaiSon855\\Views\\DTS0855s\\Delete.cshtml",
+      "TargetPath": "Views\\DTS0855s\\Delete.cshtml",
       "FileKind": "mvc"
     }
   ],
